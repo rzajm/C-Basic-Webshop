@@ -1,0 +1,7 @@
+Apple 100 42
+Orange 130 59
+Raspberry 231 17
+Oil 110 92
+Chips 70 63
+Water 231 170
+Bread 50 300
